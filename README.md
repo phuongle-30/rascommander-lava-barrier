@@ -1,8 +1,9 @@
 # Modelling Lava Flow with Barriers using rascommander
 
-This repository showcases my work on adapting **HEC-RAS**, a GIS-based hydraulic flow simulation software, to model lava flow with barriers.
+This repository showcases my work on adapting **HEC-RAS**, a GIS-based hydraulic flow simulation software, to model lava flow with barriers. The instructions use **rascommander**, a Python library to automate HEC-RAS operations.
 
-The project demonstrates how to use **rascommander** (a Python library for automating HEC-RAS operations) to:
+## Repository structure
+
 
 - Create and manage **Storage Area (SA) / 2D Area connections** in HEC-RAS to represent lava barriers.
 - Automate HEC-RAS simulations through Python.
